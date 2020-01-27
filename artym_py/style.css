@@ -1,0 +1,198 @@
+body {
+    background-image: url(http://bgfons.com/upload/ornaments_texture1104.jpg);
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+}
+
+page_const {
+    position: auto;
+    margin: 32px;
+}
+
+hr {
+    height: 7px;
+    border-width: 0 0 0 0;
+}
+
+
+#fire {
+    -webkit-box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+}
+
+.page-header {
+    height: 200px;
+    background: linear-gradient(to right, #780206, #061161);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.text-title {
+    position: auto;
+    font-size: 30px;
+    text-shadow: 3px 3px 10px red,
+        -3px -3px 10px yellow;
+    color: #cf7cb3;
+}
+
+#underline {
+    text-decoration-color: red;
+}
+
+.page-text {
+    color: #cf7cb3;
+    float: left;
+    margin: 0.5cm 5cm 2cm 5cm;
+}
+
+
+
+.page-slave {
+    background: linear-gradient(to right, #780206, #061161);
+    height: 700px;
+
+    border-radius: 23px 23px 23px 23px;
+}
+
+
+
+.page-game {
+    background: linear-gradient(to right, #780206, #061161);
+    height: 700px;
+    border-radius: 23px 23px 23px 23px;
+}
+
+.game_img {
+    height: 300px;
+    width: 400px;
+}
+
+.blockquote-7 {
+    width: 470px;
+    margin-left: 30%;
+    color: #cf7cb3;
+    border: 12px solid darkblue;
+    font-size: 26px;
+    font-style: italic;
+    position: auto;
+    box-shadow: 15px 15px 0 0 rgb(255, 0, 88);
+}
+
+.blockquote-7 cite {
+    color: rgb(255, 0, 88);
+    font-size: 18px;
+    display: block;
+    text-align: right;
+}
+
+.page-low3 {
+    background: linear-gradient(to left, #fc354c, #0abfbc);
+    height: 350px;
+    border-radius: 23px 23px 23px 23px;
+}
+
+.low3_img {
+    height: 200px;
+    width: 200px;
+}
+
+.low3-title {
+    padding: 10px;
+    color: #780206;
+    font-size: 28px;
+    text-shadow: 2px 1px 0px #780206, 4px 2px 0px #00FA9A;
+}
+
+.text-low3 {
+    font-size: 18px;
+    font-family: block;
+
+    color: #3A0470;
+    float: left;
+    margin: 0.5cm 5cm 0cm 5cm;
+}
+
+
+.page-low5 {
+    background: linear-gradient(to top, #ffafbd, #fc354c);
+    height: 400px;
+    border-radius: 23px 23px 23px 23px;
+}
+
+.blockquote-5 {
+    border: dotted #ff9900 4px;
+    border-left: solid #ff9900 15px;
+    margin: 2px 40px;
+    padding: 19px;
+    color: #333;
+    font-style: italic;
+    font-size: 16px;
+    background: #f8f8f8;
+}
+
+
+.page-low6 {
+    background: repeating-linear-gradient(45deg, #ffafbd, #ffafbd 10px, #ffafbd 10px, #FF73C2 20px);
+    height: 300px;
+    border-radius: 23px 23px 23px 23px;
+}
+
+.text-low6 {
+    font-size: 17px;
+    font-style: italic;
+    margin: 0.5cm 5cm 0cm 5cm;
+}
+
+
+.page-low7 {
+    background: linear-gradient(to top, #ef473a, #cb2d3e);
+    height: 630px;
+    border-radius: 23px 23px 23px 23px;
+}
+
+.page-low8 {
+    background: linear-gradient(to top, #ef473a, #cb2d3e);
+    height: 630px;
+    border-radius: 23px 23px 23px 23px;
+}
+
+.blockquote-8 {
+
+    background: none repeat scroll 0 0 padding-box rgba(21, 20, 20, 0.92);
+    border-left: 5px solid #9d10b9;
+    box-shadow: 0 0 20px #545151;
+    color: #e0dbdb;
+    font-family: Monotype Corsiva;
+    font-size: 20px;
+    line-height: 1.35;
+    outline: 0 none;
+    padding: 18px 17px;
+    text-align: center;
+    width: 756px;
+    margin: 0.5cm 5cm 0cm 5cm;
+
+}
+
+.page-low9 {
+    background: linear-gradient(to top, #ef473a, #cb2d3e);
+    height: 630px;
+    border-radius: 23px 23px 23px 23px;
+}
+
+
+
+
+
+.page-goodbue {
+    background: linear-gradient(to right, #33001b, #ef473a);
+    height: 130px;
+    width: 70%;
+    margin-left: 15%;
+
+    border-radius: 10px 137px 144px 134px;
+}

@@ -1,0 +1,143 @@
+h1{
+    font-family: none;
+    text-shadow: none;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-size: 50px;
+    font-weight: 10px;
+    color: darkblue;
+    text-decoration: underline;
+}
+.content,.content0,.content1,.content2,.content3,.content4,.content5,.content6,.content7,.content8{
+    border: 2px solid black;
+}
+.content {
+    background-color: lightblue;
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Courier New, monospace;
+    font-size: 40px;
+    font-weight: 10px;
+    text-shadow: 1px 1px 2px red;
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content0 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: seagreen;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 10px;
+    background: #f1da36;
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content1 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: seagreen;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background: linear-gradient(to top, #fefcea, #f1da36);
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content2 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: firebrick;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background: linear-gradient(to bottom, #fefcea, aquamarine);
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content3 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: firebrick;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background: aquamarine;
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content4 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: seagreen;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background:  linear-gradient(to bottom,  aquamarine, darkkhaki);
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content5 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: seagreen;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background: darkkhaki;
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content6 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: aquamarine;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background:  linear-gradient(to bottom, darkkhaki, #CD5C5C);;
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content7 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: aquamarine;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background: #CD5C5C;
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}
+.content8 {
+    box-shadow: inset 0px 10px 23px -10px #AAA;
+    font-family:Bradley Hand, cursive;
+    color: seagreen;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 1px;
+    background:  linear-gradient(to top, #FFFACD, #CD5C5C);;
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    vertical-align: bottom;
+}

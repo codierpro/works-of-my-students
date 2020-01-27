@@ -1,0 +1,97 @@
+.First{
+ background:-webkit-gradient(linear, 0 0, 0 bottom, from(#ff0000), to(rgba(0, 0, 255, 0.5)));
+ margin: auto;
+vertical-align: bottom;
+        height: 340px; 
+    width: 200px; 
+}
+.Two{
+ background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(88, 30, 178)), to(rgba(0, 0, 255, 0.5)));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px; 
+
+
+
+}
+.three{
+
+	 background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(81, 97, 225 )), to(rgb(25, 162, 236 )));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px; 
+}
+.four{
+	background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(175, 25, 236 )), to(rgb(236, 57, 25  )));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px; 
+
+}
+.five{
+
+	background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(175, 25, 236 )), to(rgb(25, 194, 236  )));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px; 
+}
+.six{
+
+	background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(236, 25, 25  )), to(rgb(28, 25, 236  )));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px; 
+
+}
+.seven{
+	background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(25, 162, 236 )), to(rgb(25, 162, 236 )));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px;	
+}
+.eight{
+	background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(81, 97, 225 )), to(rgb(175, 25, 236 )));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px;	
+
+}
+.nine{
+		background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(25, 194, 236   )), to(rgb(236, 57, 25 )));
+text-align: center;
+vertical-align: bottom;
+        height: 500px; 
+         margin: auto;
+    width: 2000px;	
+}
+.fon{
+font-family:cursive;
+font-style: cursive;
+     box-shadow: 0px 0px 10px #fd0,inset 0px 10px 23px -10px #AAA;;
+    padding: 10px; 
+    color: purple;
+   
+}
+.Zogolovok{
+	font-family:cursive;
+font-style: cursive;
+margin: auto;
+ padding: 10px; 
+ text-align: center;
+vertical-align: bottom;
+   
+}
